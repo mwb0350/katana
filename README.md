@@ -24,7 +24,7 @@
 </p>
 
 
-# Features  | [中文](http://www.baidu.com)
+# Features  | [中文](https://github.com/mwb0350/katana/blob/9f4b6b3431e4b78264fe7377faafef59bdbdc160/%E5%BC%80%E6%BA%90%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6katana.md)
 
 ![image](https://user-images.githubusercontent.com/8293321/199371558-daba03b6-bf9c-4883-8506-76497c6c3a44.png)
 
